@@ -56,7 +56,7 @@ wget https://huggingface.co/TheBloke/CodeLlama-7B-GGML/blob/main/codellama-7b.gg
 
 ### Execution
 The following command will prompt:  
-![Prompt of Edge Circuit Designer](AI_generation_information/RPi4_prompt.png)
+![Prompt of Edge Circuit Designer](AI_generation_information/RPi4_prompt.jpg)
 
 #### LLaMa2(Q4)
 ```

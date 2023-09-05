@@ -298,7 +298,7 @@ Therefore, The more Verilog files made available by the community, the more valu
 - Software for Fine Tuning LLM data (LLaMa2)
 	- `finetune.py` from [Alpaca-lora](https://github.com/tloen/alpaca-lora)
 		- Rewrite two parameters in `finetune.py`
->    base_model: str = "", ;The LLM data path
+>    base_model: str = "", ;The LLM data path  
 >    data_path: str = "",  ;The Training data path
 
 

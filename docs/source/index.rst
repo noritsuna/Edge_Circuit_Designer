@@ -465,8 +465,8 @@ To reproduce hardening this project, run the following:
 
    # DO NOT cd into openlane
    
-   # Run openlane to harden user_proj_example
-   make user_proj_example
+   # Run openlane to harden Edge_Circuit_Designer
+   make Edge_Circuit_Designer
    # Run openlane to harden user_project_wrapper
    make user_project_wrapper
 

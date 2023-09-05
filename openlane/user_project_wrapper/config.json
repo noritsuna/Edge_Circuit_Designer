@@ -12,16 +12,16 @@
     "MACRO_PLACEMENT_CFG": "dir::macro.cfg",
     "MAGIC_DEF_LABELS": 0,
     "VERILOG_FILES_BLACKBOX": [
-        "dir::../../verilog/gl/user_proj_example.v"
+        "dir::../../verilog/gl/Edge_Circuit_Designer.v"
     ],
-    "EXTRA_LEFS": "dir::../../lef/user_proj_example.lef",
-    "EXTRA_GDS_FILES": "dir::../../gds/user_proj_example.gds",
-    "EXTRA_LIBS": "dir::../../lib/user_proj_example.lib",
+    "EXTRA_LEFS": "dir::../../lef/Edge_Circuit_Designer.lef",
+    "EXTRA_GDS_FILES": "dir::../../gds/Edge_Circuit_Designer.gds",
+    "EXTRA_LIBS": "dir::../../lib/Edge_Circuit_Designer.lib",
     "EXTRA_SPEFS": [
-        "user_proj_example", 
-        "dir::../../spef/multicorner/user_proj_example.min.spef", 
-        "dir::../../spef/multicorner/user_proj_example.nom.spef", 
-        "dir::../../spef/multicorner/user_proj_example.max.spef"
+        "Edge_Circuit_Designer", 
+        "dir::../../spef/multicorner/Edge_Circuit_Designer.min.spef", 
+        "dir::../../spef/multicorner/Edge_Circuit_Designer.nom.spef", 
+        "dir::../../spef/multicorner/Edge_Circuit_Designer.max.spef"
     ],
     "BASE_SDC_FILE": "dir::base_user_project_wrapper.sdc",
     "IO_SYNC": 0,

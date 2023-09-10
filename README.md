@@ -19,7 +19,9 @@ The setup procedure is described below.
 	- 128GB or more
 
 #### Pre-setup Image
-If you have trouble setting up your own system, you can use [this image](https://www.noritsuna.jp/download/RPi4_AIGDC2_Edge_Circuit_Designer.img.xz).
+If you have trouble setting up your own system, you can use [this image](https://www.noritsuna.jp/download/RPi4_AIGDC2_Edge_Circuit_Designer.img.xz).  
+- ID:ishikai  
+- Pass:ishikai  
 
 ### Software
 #### Setup LLaMa Engine
